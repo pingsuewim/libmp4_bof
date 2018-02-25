@@ -1,7 +1,7 @@
 
 # libmp4_bof
 
-MP4v2_BOF
+
 CVE Reference : https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-7339
 
 The MP4Atom class in mp4atom.cpp in MP4v2 through 2.0.0 mishandles
